@@ -14,7 +14,7 @@ Welcome to my Unreal Engine 5 third-person shooter demo! In this video, you'll e
 This demo is designed to highlight the sophisticated mechanics and interactive elements possible in Unreal Engine 5. If you have any questions or would like to see more demonstrations, please leave a comment. Don't forget to like and subscribe for more Unreal Engine 5 content!
 
 <a href="https://youtu.be/lW0qYMvIDvU" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="32" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="48" height="32" />
 </a>
 
 ## Turkish Description:
@@ -31,5 +31,5 @@ Unreal Engine 5 ile geliştirilmiş third person shooter demoma hoş geldiniz! B
 Bu demo, Unreal Engine 5'te mümkün olan sofistike mekanikleri ve etkileşimli unsurları vurgulamak için tasarlandı. Sorularınız varsa veya daha fazla demo görmek isterseniz, lütfen yorum bırakın. Daha fazla Unreal Engine 5 içeriği için beğenmeyi ve abone olmayı unutmayın!
 
 <a href="https://youtu.be/lW0qYMvIDvU" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="32" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="48" height="32" />
 </a>
